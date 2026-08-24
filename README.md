@@ -12,47 +12,29 @@
 
 ---
 
+<div align="center">
+
 ```yaml
-souvik600@github
-----------------
-
-        .-+*#%@@@@@@@@@@%#*+-.
-     :+#%@@@@@#**++**#%@@@@@@%#+:
-   -*%@@@@@#=:..     ..:=#@@@@@@%*-
- .+%@@@@@@=    .::::::.    =@@@@@@@%+.
-*@@@@@@@@+  .:-=++++++=-:.  +@@@@@@@@*
-@@@@@@@@@:.:-==+******++==-:.@@@@@@@@@
-@@@@@@@@#:-=++++*******++++=-:#@@@@@@@@
-@@@@@@@%===++++++*****++++++===%@@@@@@@
-%@@@@@@*==+++++++*******+++++==*@@@@@@%
-#@@@@@@==++++++++*****++++++++==@@@@@@#
-.%@@@@@*===+++++++*****+++++++==*@@@@%.
-  *@@@@@%*==++++++*****++++==*%@@@@@*
-    +%@@@@@@@@%#*+++++*#%@@@@@@@@%+
-       -+%@@@@@@@@@@@@@@@@@@@@%+-
-
-
-OS:..................... Flutter Development
-Host:................... Applied Jyotish Vedic Academy
-Uptime:................. 2+ years experience
-Kernel:................. Dart / Flutter SDK
-IDE:.................... VSCode, Android Studio
-
-Languages.Programming:.. Dart, C++, Java
-Framework:.............. Flutter (GetX)
-Backend:................ REST APIs, Firebase, Supabase
-Database:............... Firestore, PostgreSQL
-State.Management:....... GetX
-Architecture:........... MVC, Clean Architecture
-Tools:.................. Git, GitHub, Postman, Figma
-
-Hobbies.Dev:............ Astrology Apps, IoT Tracking
-Hobbies.Other:.......... UI/UX Design, Tech Research
-Interests:.............. AI, Automation, Problem Solving
-
-- Contact -
-
-Email.Personal:......... souvikdas0600@gmail.com
-GitHub:................. github.com/souvik600
-LinkedIn:............... linkedin.com/in/souvik-das-239592250
-Location:............... Bangladesh
+...............           ...................   souvik600@github
+.............. .-=*####*=: ..................   ----------------
+............. =%@@@@@@@@@@*.  ...............   OS:..................... Flutter Development
+.............-@@#**+++=++%@+..   ............   Host:................... Applied Jyotish Vedic Academy
+............ :@#**+===++=*@#==-:.  ..........   Uptime:................. 2+ years experience
+..........  .:#%%%%#*#%#**#+====-:. .........   Kernel:................. Dart / Flutter SDK
+......... .-++*###%#+**+==+=======-. ........   IDE:.................... VSCode, Android Studio
+........ :+*+++*****====-=+======-=-. .......   Languages.Programming:.. Dart, C++, Java
+........=**++++***##*+++=++======----........   Framework:.............. Flutter (GetX)
+.......=*+++++++*##**+++*++#=----=--=: ......   Backend:................ REST APIs, Firebase, Supabase
+..... -*+*+++++++*##%%#*+=*@%*+==----: ......   Database:............... Firestore, PostgreSQL
+.... .+*+++++*##%@%###*++#@@@@@@%%#*+: ......   State.Management:....... GetX
+.... .+*#%%@@@@@@@@%***%@@@@@@@@@@@@:.......   Architecture:........... MVC, Clean Architecture
+......+#@@@@@@@@@@@@@%#@@@@@@@@@@@@@- .......   Tools:.................. Git, GitHub, Postman, Figma
+..... -@@@@@@@@@@@@@@@@@@@@@@@@@@@@- ........
+...... -@@@@@@@@@@@@@@@@@@@@@@@@@*: .........   Hobbies.Dev:............ Astrology Apps, IoT Tracking
+....... .+%@@@@@@@@@@@@@@@@@@@@*-  ..........   Hobbies.Other:.......... UI/UX Design, Tech Research
+........  .-+#%@@@@@@@@@@@%#+-.  ............   Interests:.............. AI, Automation, Problem Solving
+..........    ..:--===--::.    .............. 
+..............             ..................   - Contact -
+.............................................   Email.Personal:......... souvikdas0600@gmail.com
+.............................................   GitHub:................. github.com/souvik600
+.............................................   LinkedIn:............... linkedin.com/in/souvik-das-239592250
