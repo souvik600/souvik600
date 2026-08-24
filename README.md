@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @souvik600
-- 👀 I’m interested in Aplication development
-- 🌱 I’m an app developer using Flutter
-- 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me .. souvikdas0600@gmail.com
+```
+                                                      souvik600@github
+                  .:-=====:.                          ----------------
+                :+#%@@@@@@%%*:                        OS: Flutter Development
+               -%@@%%%#####%@#.                       Host: Applied Jyotish Vedic Academy
+              .#@#*+++=====+%@*:..                    Uptime: 3+ years experience
+               +%**+========*%*==-:.                  Kernel: Dart / Flutter SDK
+              .=%####*+*##***#+-===-:.                IDE: VSCode, Android Studio
+            .:=+######+****+=+==------:
+           :=+++******==+==-=====------:              Languages.Programming: Dart, C++, java, python 
+         .-++++++*++**+==========-------:             Framework: Flutter (GetX), Provider,BLoC
+        .=++++++++*****++++======--------.            Backend: REST APIs, Firebase, Supabase 
+       .=+++++++++****++==++++*=---------:
+       -+++++++++==+###****+=+%#==-------:            Hobbies.Dev: Astrology apps, IoT tracking
+      .+++++++++++*%####*++=+#%%%##*+==--:            Hobbies.Other: UI/UX Design
+      :++++++**#%%@@%##**++*%@%%%%%%%%%##-
+      -++*#%%%%@@@@@@%#****%@@%%%%%%%%%@%:            - Contact -
+      :+#%@%%%%%%@@@@@@%##%@@%%%%%%%%%%@=             Email................. souvikdas0600@gmail.com
+      .+@@@%%%%%%%%%@%%@%%@%%%%%%%%%%%@+              GitHub................ github.com/souvik600
+       :#@@@%@%%%%%%%@%@%%%%%%%%%%%%@%=
+        .*@@@@@%%%%%%%%@%%@%%%%%%%@%*:
+          :*%@@@@%%%%%%%%%@%@%@@@%+:
+            .-*#%%@@@@@@@@@@%%#+-.
+               ..:-==++++==-:..
+```
 
-<!---
-souvik600/souvik600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I'm Souvik Das
+
+- 🎯 Flutter Developer & Designer with 2+ years of experience
+- 🔭 Currently working on:
+  - **Kundli** — Jyotish/Astrology app for Applied Jyotish Vedic Academy
+  - **Hospital/Vastu Management App**
+  - **smart_lock** — GPS Vehicle Tracking App
+- 🛠️ Tech: Flutter, Dart, GetX, Firebase, REST APIs
+- 📫 Reach me: souvikdas0600@gmail.com
+
+### 📌 Pinned Projects
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| District-Online-Seba-Flutter | Public service app | Dart |
+| flutter_all_concept | Flutter concepts collection | C++ |
+| Covid-19_Vaccine_Management_System | Vaccine management system | C++ |
+| cse_protal | CSE Student Portal | Dart |
