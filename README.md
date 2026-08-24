@@ -1,3 +1,4 @@
+```
 ................................................................................   souvik600@github
 ..............................               ...................................   ----------------
 ...........................  ..-=**#####*+=:.  .................................   
@@ -37,4 +38,24 @@
 ................................................................................   
 ................................................................................   
 ................................................................................   
-................................................................................
+................................................................................   
+```
+
+### 👋 Hi, I'm Souvik Das
+
+- 🎯 Flutter Developer & Designer with 2+ years of experience
+- 🔭 Currently working on:
+  - **Kundli** — Jyotish/Astrology app for Applied Jyotish Vedic Academy
+  - **Hospital/Vastu Management App**
+  - **smart_lock** — GPS Vehicle Tracking App
+- 🛠️ Tech: Flutter, Dart, GetX, Firebase, REST APIs
+- 📫 Reach me: souvikdas0600@gmail.com
+
+### 📌 Pinned Projects
+
+| Repo | Description | Stack |
+|------|-------------|-------|
+| District-Online-Seba-Flutter | Public service app | Dart |
+| flutter_all_concept | Flutter concepts collection | C++ |
+| Covid-19_Vaccine_Management_System | Vaccine management system | C++ |
+| cse_protal | CSE Student Portal | Dart |
