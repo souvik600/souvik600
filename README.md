@@ -11,9 +11,7 @@
 
 ---
 
-<div align="center">
-
-<sub>📱 Best viewed on desktop — the terminal panel below scrolls sideways on small screens.</sub>
+📱 *Best viewed on desktop — the terminal panel below scrolls sideways on small screens.*
 
 ```yaml
 ...........    ....   ..............   souvik600@github
@@ -39,8 +37,6 @@
                                        GitHub:................. github.com/souvik600
                                        LinkedIn:............... linkedin.com/in/souvik-das-239592250
 ```
-
-</div>
 
 ---
 
