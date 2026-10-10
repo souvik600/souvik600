@@ -17,7 +17,7 @@
 ...........    ....   ..............   souvik600@github
 .......... .=*%@@@%#=. .............   ----------------
 ...........#@@%%####@#.   ..........   OS:..................... Flutter Development
-......... .@#*+=====#@=-:.  ........   Host:................... Applied Jyotish Vedic Academy
+......... .@#*+=====#@=-:.  ........   Contact:................... 01902200052
 ........ .:*%%%#*##**#====-. .......   Uptime:................. 2+ years experience
 ......  :=+*####+++==+=====-. ......   Kernel:................. Dart / Flutter SDK
 ..... .=**++****++========---. .....   IDE:.................... VSCode, Android Studio
@@ -40,10 +40,6 @@
 
 ---
 
-### 🔭 Currently working on
-- **Kundli** — Jyotish/Astrology app for Applied Jyotish Vedic Academy
-- **Hospital/Vastu Management App**
-- **smart_lock** — GPS Vehicle Tracking App
 
 ### 📌 Pinned Projects
 
